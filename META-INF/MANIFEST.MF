@@ -1,0 +1,2 @@
+Main-Class: pl.gda.pg.eti.kask.javaee.Lab7client
+
